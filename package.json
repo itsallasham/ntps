@@ -1,0 +1,38 @@
+{
+  "name": "NTPS",
+  "version": "0.0.0",
+  "description": "North Texas Process Service Website",
+  "main": "webServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://ntps.herokuapp.com/"
+  },
+  "keywords": [
+    "Process",
+    "Server",
+    "Fort",
+    "Worth",
+    "Weatherford",
+    "Azle",
+    "Tarrant",
+    "Parker",
+    "County",
+    "Wise",
+    "County"
+  ],
+  "author": "Broken GAF Productions",
+  "license": "ISC",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.8"
+  }
+}
+
+{
+  "engines": {
+    "node": "0.10.x"
+  }
+}
